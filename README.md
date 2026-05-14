@@ -69,6 +69,8 @@ Miks MVC:
 
 # UML kasutusjuhtumi diagramm
 
+<img width="1400" height="1114" alt="1" src="https://github.com/user-attachments/assets/636bc8b0-9d53-4866-82b1-455750dce1c1" />
+
 ## Kasutajad
 - Admin
 - Treener
