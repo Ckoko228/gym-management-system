@@ -21,8 +21,8 @@ Süsteem võimaldab:
 # Meeskond
 
 - Daniel — Backend arendaja
-- Mark — Frontend arendaja
-- Anna — Dokumentatsioon ja testimine
+- Maks — Frontend arendaja
+- Artur — Dokumentatsioon ja testimine
 
 ---
 
