@@ -1,32 +1,32 @@
 # Gym Management System
 
-## Описание проекта
+## Projekti kirjeldus
 
-Gym Management System — это веб-приложение для управления участниками спортзала, тренерами и расписанием тренировок.
+Gym Management System on veebirakendus spordisaali liikmete, treenerite ja tunniplaani haldamiseks.
 
-Приложение предназначено для:
-- администраторов спортзала
-- тренеров
-- участников
+Rakendus on mõeldud:
+- spordisaali administraatoritele
+- treeneritele
+- liikmetele
 
-Система позволяет:
-- регистрировать участников
-- управлять тренировками
-- просматривать расписание
-- бронировать тренировки
-- отслеживать оплаты абонементов
-
----
-
-# Команда
-
-- Daniel — Backend разработчик
-- Mark — Frontend разработчик
-- Anna — Документация и тестирование
+Süsteem võimaldab:
+- registreerida liikmeid
+- hallata treeninguid
+- vaadata tunniplaani
+- broneerida treeninguid
+- jälgida liikmemakseid
 
 ---
 
-# Используемые технологии
+# Meeskond
+
+- Daniel — Backend arendaja
+- Mark — Frontend arendaja
+- Anna — Dokumentatsioon ja testimine
+
+---
+
+# Kasutatavad tehnoloogiad
 
 - HTML
 - CSS
@@ -37,69 +37,69 @@ Gym Management System — это веб-приложение для управл
 
 ---
 
-# Архитектура
+# Arhitektuur
 
-Мы выбрали архитектуру MVC (Model-View-Controller).
+Valime MVC arhitektuuri (Model-View-Controller).
 
-Почему MVC:
-- проект легче поддерживать
-- код проще организовать
-- frontend и backend разделены
-- хорошо подходит для веб-приложений
-
----
-
-# Функциональные требования
-
-1. Пользователь может зарегистрировать аккаунт
-2. Участник может бронировать тренировку
-3. Администратор может добавлять новые тренировки
-4. Система показывает расписание занятий
-5. Тренер может управлять списком участников
+Miks MVC:
+- lihtsam projekti hallata
+- koodi on lihtsam hooldada
+- frontend ja backend on eraldatud
+- sobib hästi veebirakendustele
 
 ---
 
-# Нефункциональные требования
+# Funktsionaalsed nõuded
 
-1. Система должна работать 24/7
-2. Данные должны храниться безопасно
-3. Сайт должен загружаться менее чем за 3 секунды
-
----
-
-# UML диаграмма вариантов использования
-
-## Пользователи
-- Администратор
-- Тренер
-- Участник
-
-## Варианты использования
-- Войти в систему
-- Зарегистрировать аккаунт
-- Просмотреть расписание
-- Забронировать тренировку
-- Управлять тренировками
+1. Kasutaja saab registreerida konto
+2. Liige saab broneerida treeningu
+3. Administraator saab lisada uusi treeninguid
+4. Süsteem kuvab tunniplaani
+5. Treener saab hallata osalejate nimekirja
 
 ---
 
-# План работы
+# Mittefunktsionaalsed nõuded
 
-## Спринт 1
-- Планирование проекта
-- Создание GitHub репозитория
-- Написание README
+1. Süsteem peab töötama 24/7
+2. Andmed peavad olema turvaliselt salvestatud
+3. Veebileht peab laadima vähem kui 3 sekundiga
 
-## Спринт 2
-- Проектирование базы данных
-- Система пользователей
-- Авторизация
+---
 
-## Спринт 3
-- Система расписания
-- Бронирование тренировок
+# UML kasutusjuhtumi diagramm
 
-## Спринт 4
-- Тестирование
-- Исправление ошибок
-- Документация
+## Kasutajad
+- Admin
+- Treener
+- Liige
+
+## Kasutusjuhud
+- Logi sisse
+- Registreeri konto
+- Vaata tunniplaani
+- Broneeri treening
+- Halda treeninguid
+
+---
+
+# Tööplaan
+
+## Sprint 1
+- Projekti planeerimine
+- GitHub repo loomine
+- README kirjutamine
+
+## Sprint 2
+- Andmebaasi disain
+- Kasutajate süsteem
+- Sisselogimine
+
+## Sprint 3
+- Tunniplaani süsteem
+- Treeningute broneerimine
+
+## Sprint 4
+- Testimine
+- Vigade parandamine
+- Dokumentatsioon
